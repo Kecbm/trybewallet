@@ -1,23 +1,23 @@
-# Habilidades
+# Skills
 
-Neste projeto, eu fui capaz de:
+In this project, I was able to:
 
-- Criar um store Redux em aplicações React
+- Create a Redux store in React applications
 
-- Criar reducers no Redux em aplicações React
+- Create reducers in Redux in React applications
 
-- Criar actions no Redux em aplicações React
+- Create actions in Redux in React applications
 
-- Criar dispatchers no Redux em aplicações React
+- Create dispatchers in Redux in React applications
 
-- Conectar Redux aos componentes React
+- Connect Redux to React components
 
-- Criar actions assíncronas na sua aplicação React que faz uso de Redux.
+- Create asynchronous actions in your React application that uses Redux.
 
-## O que foi desenvolvido
+## What was developed
 
-Neste projeto eu desenvolvi uma aplicação em React que use Redux como ferramenta de manipulação de estado. Através dessa aplicação, será possível realizar as operações básicas de criação e manipulação de um estado de redux. Uma carteira de controle de gastos com conversor de moedas, ao utilizar essa aplicação um usuário deverá ser capaz de:
+In this project I developed an application in React that uses Redux as a state manipulation tool. Through this application, it will be possible to perform the basic operations of creating and manipulating a redux state. A spending control wallet with currency converter, when using this application a user should be able to:
 
-- Adicionar e remover um gasto;
-- Visualizar uma tabelas com seus gastos;
-- Visualizar o total de gastos convertidos para uma moeda de escolha;
+- Add and remove an expense;
+- View tables with your expenses;
+- View total expenses converted to a currency of choice;
